@@ -1,2 +1,0 @@
-Please download the 'client_secret.json' from google people api by creating a project, accept Oauth2, create Oauth2 'client_secret.json file'.
-This file allow yourself to be recognized by the program.
